@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Đếm Ngày Yêu Nhau</string>
+    <string name="input_date">Chọn ngày bạn bắt đầu yêu nhau:</string>
+    <string name="start">Start</string>
+    <string name="ok">OK</string>
+    <string name="error">Ngày bắt đầu yêu không được nhỏ hơn ngày hiện tại!</string>
+    <string name="ban_da_yeu_duoc">Mình đã yêu nhau</string>
+    <string name="change_date_begin_love">Change Date Begin Love</string>
+    <string name="i_always_love_you"><![CDATA[Anh mãi yêu em Tuyết à <3]]></string>
+</resources>

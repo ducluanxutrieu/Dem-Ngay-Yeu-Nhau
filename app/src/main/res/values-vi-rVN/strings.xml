@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Đếm Ngày Yêu Nhau</string>
+    <string name="change_date_begin_love">Thay Đổi Ngày</string>
+    <string name="start">Bắt Đầu</string>
+    <string name="input_date">Chọn ngày bạn bắt đầu yêu nhau</string>
+    <string name="ok">Đồng ý</string>
+    <string name="error">Ngày bắt đầu yêu không được nhỏ hơn ngày hiện tại!</string>
+    <string name="ban_da_yeu_duoc">Mình đã yêu nhau</string>
+</resources>
